@@ -1,0 +1,6 @@
+bs4
+feedparser
+logging
+requests
+pyqt5
+pickle
